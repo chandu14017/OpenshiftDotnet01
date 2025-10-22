@@ -1,0 +1,1 @@
+DOTNET_STARTUP_PROJECT=OpenshiftDotnet01.csproj
